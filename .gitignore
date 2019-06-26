@@ -1,0 +1,14 @@
+
+# produced files
+*.csv
+*.dbg
+*.out
+
+bin
+obj
+debug
+
+# ide files
+
+*.cbp
+*.layout
